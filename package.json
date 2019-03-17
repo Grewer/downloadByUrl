@@ -1,8 +1,8 @@
 {
   "name": "downloadbyurl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "download file by url",
-  "main": "dist/index.js",
+  "main": "dist/downloadByUrl.js",
   "scripts": {
     "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"

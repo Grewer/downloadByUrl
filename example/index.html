@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>download</title>
+    <style>
+        button {
+            width: 200px;
+            height: 35px;
+            border: 1px solid #ddd;
+            color: #000;
+            background-color: #fff;
+            -webkit-appearance: button;
+            outline: 0;
+            cursor: pointer;
+            transition: border-color 0.3s;
+        }
+
+        button:hover {
+            border-color: rgba(0, 159, 255, 0.75);
+            color: #009fff;
+        }
+
+        button:focus {
+            border-color: #009fff;
+            color: #009fff;
+        }
+    </style>
+</head>
+<body>
+<button id="downloadToJpg">click me download jpg</button>
+<button id="downloadToPdf">click me download pdf</button>
+<button id="downloadToXlsx">click me download xlsx</button>
+<script src="../dist/downloadByUrl.js"></script>
+<script>
+	var downloadBtnJpg = document.getElementById('downloadToJpg')
+	var downloadBtnPdf= document.getElementById('downloadToPdf')
+	var downloadBtnXlsx = document.getElementById('downloadToXlsx')
+	downloadBtnJpg.onclick = function () {
+		console.log('click')
+		window.downloadByUrl('./test.jpg') // chrome safari firefox
+	}
+	downloadBtnPdf.onclick = function () {
+		console.log('click')
+		window.downloadByUrl('./test.pdf')  // chrome safari firefox
+	}
+	downloadBtnXlsx.onclick = function () {
+		console.log('click')
+		window.downloadByUrl('./test.xlsx') // chrome safari firefox
+	}
+</script>
+</body>
+</html>

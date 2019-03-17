@@ -1,0 +1,34 @@
+{
+  "name": "downloadbyurl",
+  "version": "1.0.0",
+  "description": "download file by url",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grewer/downloadByUrl.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "download",
+    "downloadfile",
+    "file",
+    "url"
+  ],
+  "author": "Grewer<grewer@grewer.cn>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Grewer/downloadByUrl/issues"
+  },
+  "homepage": "https://github.com/Grewer/downloadByUrl#readme",
+  "devDependencies": {
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}

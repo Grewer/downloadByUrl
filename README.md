@@ -4,7 +4,7 @@
 
 
 ## demo
-// todo
+[click](https://grewer.github.io/downloadByUrl/example/)
 
 ### Download
 

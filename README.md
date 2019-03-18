@@ -57,11 +57,11 @@ MIT
 
 ## downloadByUrl
 
->此存储库基于https://github.com/PixelsCommander/Download-File-JS包创建
+>此存储库基于 https://github.com/PixelsCommander/Download-File-JS 包创建
 
 
 ## 例子
-[点击]（https://grewer.github.io/downloadByUrl/example/）
+[点击](https://grewer.github.io/downloadByUrl/example/)
 
 
 ## 优点
@@ -78,7 +78,7 @@ npm i downloadbyurl
 ## 用法
 
 ```
-window.downloadByUrl('./test.jpg'）
+window.downloadByUrl('./test.jpg')
 ```
 
 或者

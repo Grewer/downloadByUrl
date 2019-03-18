@@ -1,5 +1,5 @@
 - [English](#English)
-- [中文](#Chinese)
+- [中文](#中文)
 
 
 # English
@@ -16,7 +16,7 @@
 
 ## Advantages
 - Not blocked by the browser after the ajax request
-- Compatible with Chrome, Firefox, Safari, ie (at least ie5 or above)
+- Compatible with Chrome, Firefox, Safari, IE (at least IE5 or above)
 - 2kb size
 
 ## Download
@@ -42,7 +42,7 @@ downloadByUrl('./test.jpg')
 ## Result
 ```
 const result = downloadByUrl('./test.jpg')
-// 
+// If some pictures are not allowed to be downloaded, they will not be downloaded and cannot be detected.
 if(result){
     alert('success')
 }
@@ -66,7 +66,7 @@ MIT
 
 ## 优点
 - 在 ajax 请求后,不被浏览器拦截
-- 兼容 Chrome,Firefox,Safari,ie(至少 ie5 以上)
+- 兼容 Chrome,Firefox,Safari,IE(至少 IE5 以上)
 - 2kb 大小
 
 ## 下载
@@ -93,7 +93,7 @@ downloadByUrl('./test.jpg')
 ## 结果
 ```
 const result = downloadByUrl('./test.jpg')
-// 
+//  如果是某些头部不被允许下载的图片,会出现无法下载的情况,且无法被侦测
 if(result){
     alert('下载成功')
 }

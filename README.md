@@ -1,12 +1,3 @@
-- [English](#English)
-- [中文](#中文)
-
-
-# English
-
-
-## downloadByUrl
-
 
 ## chrome / safari
 ![chrome](https://grewer.github.io/dataSave/downloadPlugin/chrome.gif)
@@ -17,6 +8,16 @@
 ## ie
 ![ie](https://grewer.github.io/dataSave/downloadPlugin/firefox.gif)
 
+
+
+- [English](#English)
+- [中文](#中文)
+
+
+# English
+
+
+## downloadByUrl
 
 > This repository is created based on the https://github.com/PixelsCommander/Download-File-JS package
 

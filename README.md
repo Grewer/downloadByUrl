@@ -6,7 +6,7 @@
 ![firefox](https://grewer.github.io/dataSave/downloadPlugin/firefox.gif)
 
 ## ie
-![ie](https://grewer.github.io/dataSave/downloadPlugin/firefox.gif)
+![ie](https://grewer.github.io/dataSave/downloadPlugin/ie.gif)
 
 
 

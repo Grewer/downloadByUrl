@@ -1,5 +1,16 @@
 ## downloadByUrl
 
+
+## chrome / safari
+![chrome](https://grewer.github.io/dataSave/downloadPlugin/chrome.gif)
+
+## firefox
+![firefox](https://grewer.github.io/dataSave/downloadPlugin/firefox.gif)
+
+## ie
+![ie](https://grewer.github.io/dataSave/downloadPlugin/firefox.gif)
+
+
 > This repository is created based on the https://github.com/PixelsCommander/Download-File-JS package
 
 

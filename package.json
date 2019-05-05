@@ -1,6 +1,6 @@
 {
   "name": "downloadbyurl",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "download file by url",
   "main": "dist/downloadByUrl.js",
   "scripts": {
